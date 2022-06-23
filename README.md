@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Howdy 👋
+* I am looking to expand my range in programming languages and try out some pretty basic automation of certain processes on my devices.
+* I'm most familiar with C# programming and have worked with C++ a bit when I was working on operating systems in school. I also worked quite a bit with MATLAB doing pretty extensive data analysis for neural networks. That being said, I'm really interested in getting more involved with data analysis and AI as well.
+* I'm also trying to collaborate on game development. I have quite a few ideas I would like to explore/share.
+* I'm currently learning Python, just working on basic applications to get a feel for structures and keywords. If you have any tips to share, please feel free!
+* My next projects I'd like to work on in Python are a text to speech bot and perhaps something that will work on my emails.
 <!--
 **hanzillaa/hanzillaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
